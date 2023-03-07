@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^0.13.1
+  flutter_map: any
   google_polyline_algorithm: ^3.1.0
   http: ^0.13.3
   latlong2: ^0.8.0
