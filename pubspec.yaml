@@ -9,13 +9,19 @@ environment:
   flutter: ">=3.3.0"
 
 dependencies:
+async: ^2.9.0
+  collection: ^1.16.0
   flutter:
     sdk: flutter
-  flutter_map: any
-  google_polyline_algorithm: ^3.1.0
   http: ^0.13.5
   latlong2: ^0.8.0
   meta: ^1.8.0
+  polylabel: ^1.0.1
+  positioned_tap_detector_2: ^1.0.4
+  proj4dart: ^2.1.0
+  routing_client_dart: ^0.3.2
+  tuple: ^2.0.0
+  vector_math: ^2.1.2
 
 dev_dependencies:
   #flutter_test:
