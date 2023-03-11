@@ -23,11 +23,7 @@ dependencies:
   routing_client_dart: ^0.3.2
   tuple: ^2.0.0
   vector_math: ^2.1.2
-  flutter_osrm:
-    git:
-      url: https://github.com/rezaafallah/flutter_osrm.git
-      # path: flutter_osrm
-      
+
 dev_dependencies:
   flutter_lints: ^2.0.1
   flutter_test:
